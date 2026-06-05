@@ -5,10 +5,10 @@ This repository contains everything I learn and build starting from HTML and CSS
 
 # Goal
 
--Master Frontend Development
--Become proficient in Javascript and React
--Learn Next.js and Typescript 
--Build Full-Stack Applications
--Strengthen DSA and Problem Solving
--Create production-ready projects
--Prepare for internships and software engineering roles
+- Master Frontend Development
+- Become proficient in JavaScript and React
+- Learn Next.js and TypeScript
+- Build Full-Stack Applications
+- Strengthen DSA and Problem Solving
+- Create production-ready projects
+- Prepare for internships and software engineering roles
